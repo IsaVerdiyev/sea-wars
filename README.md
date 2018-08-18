@@ -7,3 +7,5 @@ Then you start to play sea wars against computer.
 Computer doesn't know of your ships' placement. It fires cells randomly. If it wounds ship, computer tries to kill him by firing nearby cells where ship can be.
 At the end of game general statistics of battle is shown.
 You can load saved game and save game.
+
+Note: for Windows only
